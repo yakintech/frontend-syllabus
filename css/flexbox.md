@@ -23,14 +23,17 @@ https://www.w3schools.com/css/css3_flexbox.asp
 
 
 **Diğer Linkler**
+
 [https://flexboxfroggy.com/](https://flexboxfroggy.com/)
 https://romibohmra2.medium.com/a-deep-dive-into-css-flexbox-layout-f200ac9fdbb5
 
 
 **Önerilen Tekrar Videosu**
+
 https://www.youtube.com/watch?v=tXIhdp5R7sc&ab_channel=freeCodeCamp.org
 
 **Ev Ödevi**
+
 https://docs.google.com/document/d/1YvtqmcDSAe3f-w8bZJH67jBZMmq42hhEXuYgYc500XE/edit?usp=sharing
 
 
