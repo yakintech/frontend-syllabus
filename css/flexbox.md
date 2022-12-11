@@ -1,11 +1,17 @@
 
-**Konu :** CSS Flexbox
+# CSS Flexbox
 
   
 
-**Tahmini Süre:** 2 saat 45 dakika
+**Tahmini ders süresi:** 2 saat 45 dakika
 
-  
+---
+
+**Gereklilikler**
+
+![enter image description here](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![enter image description here](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
+
+  ---
 
 **Eğitmen Açıklama**
 
