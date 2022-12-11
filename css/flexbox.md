@@ -18,19 +18,26 @@ Aşağıda belirtilen flexbox örneği dışında https://flexboxfroggy.com/ üz
 **Offical Linkler**
 
 https://www.w3schools.com/css/css3_flexbox.asp
+
 [https://css-tricks.com/snippets/css/a-guide-to-flexbox/](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
 [https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
+
 
 
 **Diğer Linkler**
 
 [https://flexboxfroggy.com/](https://flexboxfroggy.com/)
+
 https://romibohmra2.medium.com/a-deep-dive-into-css-flexbox-layout-f200ac9fdbb5
+
 
 
 **Önerilen Tekrar Videosu**
 
 https://www.youtube.com/watch?v=tXIhdp5R7sc&ab_channel=freeCodeCamp.org
+
+
 
 **Ev Ödevi**
 
